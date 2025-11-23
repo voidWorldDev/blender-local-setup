@@ -1,5 +1,5 @@
 cd ..
-git clone --depth=1 git@github.com:voidWorldDevs/blender-explore.git
+git clone --depth=1 git@github.com:voidWorldDev/blender-explore.git
 cd blender-explore
 make update
 
